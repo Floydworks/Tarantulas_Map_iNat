@@ -1,1 +1,13 @@
 Source information for shape files:
+
+#map geo data source
+https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html
+https://www.parks.ca.gov/?page_id=29682
+
+#iNaturalist resources
+#https://pyinaturalist.readthedocs.io/en/stable/modules/pyinaturalist.v1.observations.html#pyinaturalist.v1.observations.get_observations
+#https://www.inaturalist.org/pages/api+reference
+
+#########################################
+You will need three shape files to create the map.
+Download the archive here:
