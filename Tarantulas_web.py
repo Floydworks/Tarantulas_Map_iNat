@@ -300,37 +300,7 @@ print("Run time for your api request: %s seconds" % (query_time))
 print("Run time total: %s seconds" % (time.time() - start_time))
 
 
-# In[ ]:
 
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
